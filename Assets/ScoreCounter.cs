@@ -22,6 +22,6 @@ public class ScoreCounter : MonoBehaviour
         alimento = collision.gameObject.GetComponent<AlimentoScript>();
         Score += alimento.valorAlimentario;
         txtScore.text = Score.ToString();
-
+     
     }
 }
