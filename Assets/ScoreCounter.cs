@@ -8,7 +8,7 @@ public class ScoreCounter : MonoBehaviour
 
     public Text txtScore;
     public int Score;
-    //public maxScores;
+    
     
 
     // Start is called before the first frame update
